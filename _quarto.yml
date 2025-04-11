@@ -5,12 +5,9 @@ website:
   title: "The Harry Simms Fund for Education"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
-      - icon: mastodon
-        href: https://union.place/@harrysimmsfund
-        text: Mastodon
+      - href: https://linksta.cc/@HSF
+        text: Social Media ![](/linkstacc.png){height=1.5em}
   
   page-footer: 
     left: "Copyright 2025, The Harry Simms Fund" 

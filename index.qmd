@@ -6,4 +6,6 @@ The Harry Simms Fund is a Kentucky-based 501(c)(3) organization that is dedicate
 
 We are an all-volunteer organization looking to tell the stories of average Kentucky workers standing up for their rights, both in the past and today.
 
-Do you have a story that others need to hear? Is there a particular area of labor history you're interested in? [Share it with us](#0) and we'll help spread the word.
+Do you have a story that others need to hear? Is there a particular area of labor history you're interested in? [Share it with us](mailto:info@harrysimmsfund.org) and we'll help spread the word.
+
+`<a rel="me" href="https://union.place/@harrysimmsfund"`{=html} </a>
